@@ -8,7 +8,7 @@ $z = 20;
 //function declaration
 function calculate($x){
     return $x + 10;
-    }
+}
 
 //function call
 $f = calculate($x);
@@ -39,4 +39,4 @@ function calculate4($x, $y, $z) {
 }
 
 $f4 = calculate4($x, $y, $z);
-echo " For x = $x, y = $y and z = $z, f(x,y,z) = $f4 \n";
+echo "For x = $x, y = $y and z = $z, f(x,y,z) = $f4 \n";
