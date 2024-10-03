@@ -6,4 +6,3 @@ echo 2*$x + $y . "\n";
 echo 5*$x . "\n";
 echo $x / $y;
 
-?>
