@@ -1,5 +1,6 @@
 <?php
 $favcolour = "Red";
+//$favcolour = readline("Enter your favourite colour: ");
 
 switch ($favcolour) {
     case "Red":
