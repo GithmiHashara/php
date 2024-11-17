@@ -1,6 +1,6 @@
 <?php
-$function="Multiplication";
-$x=15;
+$function="Addition";
+$x=10;
 $y=20;
 
 switch ($function){
